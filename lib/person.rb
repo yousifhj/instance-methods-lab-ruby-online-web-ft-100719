@@ -3,3 +3,5 @@ class Person
     puts "Hello World!"
   end 
 end 
+
+fido = Person.new 
